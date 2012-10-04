@@ -1,0 +1,13 @@
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\apple7\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
